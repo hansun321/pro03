@@ -1,4 +1,3 @@
-![tspoon](./tspoon/1.png)
 ![tspoon](./tspoon/2.png)
 ![tspoon](./tspoon/3.png)
 ![tspoon](./tspoon/4.png)
